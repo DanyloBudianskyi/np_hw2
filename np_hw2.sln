@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "np_hw2_server", "np_hw2_server\np_hw2_server.csproj", "{91F8B711-9838-4699-BDE8-A8C2F3458AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "np_hw2_client", "np_hw2_client\np_hw2_client.csproj", "{B0ABBFFD-0227-476D-90F7-FBC1205E83A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F8B711-9838-4699-BDE8-A8C2F3458AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F8B711-9838-4699-BDE8-A8C2F3458AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F8B711-9838-4699-BDE8-A8C2F3458AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F8B711-9838-4699-BDE8-A8C2F3458AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0ABBFFD-0227-476D-90F7-FBC1205E83A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0ABBFFD-0227-476D-90F7-FBC1205E83A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0ABBFFD-0227-476D-90F7-FBC1205E83A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0ABBFFD-0227-476D-90F7-FBC1205E83A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DE4CE38-1045-4BF3-9A91-40FE67D1868D}
+	EndGlobalSection
+EndGlobal
